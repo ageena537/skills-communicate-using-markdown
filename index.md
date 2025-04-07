@@ -10,7 +10,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-- [ ] Turn on github
+- [X] Turn on github
 - [ ] do assignments
 - [ ] check off everything
 
