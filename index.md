@@ -4,9 +4,10 @@
 #### My name is ageena
 ##### CSE A
 ###### roll number is 9 
-![cat cool](https://imgur.com/cja8nNn) 
-```python
-print("Hello, I'm Ageena")
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
 - [ ] Turn on github
