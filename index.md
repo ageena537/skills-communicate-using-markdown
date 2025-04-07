@@ -7,6 +7,11 @@
 ![cat cool](https://imgur.com/cja8nNn) 
 ```python
 print("Hello, I'm Ageena")
+```
+
+- [ ] Turn on github
+- [ ] do assignments
+- [ ] check off everything
 
 
 
